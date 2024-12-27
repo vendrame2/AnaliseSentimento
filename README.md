@@ -112,9 +112,9 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo `LICENSE` p
 ## 💻 Demonstração  
 
 ### Tela Inicial  
-![Tela Inicial](https://via.placeholder.com/800x400?text=Tela+Inicial+da+Aplicação)  
+![Tela Inicial](https://github.com/vendrame2/AnaliseSentimento/blob/main/app/static/tela.png)  
 
 ### Resultado de Análise  
-![Resultado de Emojis e Gráfico](https://via.placeholder.com/800x400?text=Gráfico+e+Emojis+Atualizados)  
+![Resultado de Emojis e Gráfico](https://github.com/vendrame2/AnaliseSentimento/blob/main/app/static/resultado.png)
 ```  
 
